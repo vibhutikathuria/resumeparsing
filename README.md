@@ -1,19 +1,3 @@
-# Automatic Summarization of Resumes with NER
-
-Evaluate resumes at a glance through Named Entity Recognition
-
-![](https://cdn-images-1.medium.com/max/1600/1*-FxcRx8fSgtr6fhMQ_pUdw.png)
-
-*Shameless plugin: We are a data annotation platform to make it super easy for
-you to build ML datasets. Just upload data, invite your team and build datasets
-super quick. *[Check us out!](https://www.dataturks.com/)
-
-*****
-
-This blog speaks about a field in Natural language Processing and Information
-Retrieval called Named Entity Recognition and how we can apply it for
-automatically generating summaries of resumes by extracting only chief entities
-like name, education background, skills, etc..
 
 It is often observed that resumes may be populated with excess information,
 often irrelevant to what the evaluator is looking for in it. Therefore, the
