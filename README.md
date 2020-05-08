@@ -36,20 +36,6 @@ annotations of important entities we are interested in and generates json
 formatted training data with each line containing the text corpus along with the
 annotations.
 
-A snapshot of the dataset can be seen below :
-
-![](https://cdn-images-1.medium.com/max/1600/1*vElncAMvCKZW__k54-yUaQ.png)
-
-![](https://cdn-images-1.medium.com/max/1600/1*To9SfGPmn9Y26ANJz30UxA.png)
-
-A sample of the generated json formatted data is as follows :
-
-![](https://cdn-images-1.medium.com/max/1600/1*Z8WDPba2EAWOKbHnC651kw.png)
-
-The above dataset consisting of 220 annotated resumes can be found
-[here](https://dataturks.com/projects/abhishek.narayanan/Entity Recognition in
-Resumes). We train the model with 200 resume data and test it on 20 resume data.
-
 #### Training the Model :
 
 We use python’s spaCy module for training the NER model. spaCy’s models are
